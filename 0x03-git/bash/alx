@@ -1,2 +1,10 @@
 #!/bin/bash
+<<<<<<< HEAD
+<<<<<<<< HEAD:0x03-git/bash/alx
 echo "ALX"
+========
+echo"Alx School"
+>>>>>>>> update_script:0x01-git/bash/alx
+=======
+echo"Alx School"
+>>>>>>> update_script
